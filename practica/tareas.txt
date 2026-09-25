@@ -1,0 +1,5 @@
+1: Lustrar al perro
+2: Sacar a pasear a los zapatos
+3: Lavar la ropa
+4: Tender mi ropa para secar
+5: Comer una causita en la salida del cole :v
